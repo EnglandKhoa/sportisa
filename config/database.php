@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$dbname = 'sportisa-main';
-$username = 'root';
-$password = '';
+$host = 'dbsportisa.mysql.database.azure.com';
+$dbname = 'sportisa';
+$username = 'sportisa';
+$password = 'password123!';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
