@@ -1,6 +1,6 @@
 <?php
 $host = 'dbsportisa.mysql.database.azure.com';
-$dbname = 'sportisa';
+$dbname = 'sportisa-main';
 $username = 'sportisa';
 $password = 'password123!';
 
